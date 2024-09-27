@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://actickyw.github.io/sitemap.actickyw.gz
+Sitemap: https://actickyw.github.io/app/sitemap.actickyw.gz
+Sitemap: https://actickyw.github.io/assets/sitemap.actickyw.gz
+Sitemap: https://actickyw.github.io/css/sitemap.actickyw.gz
+Sitemap: https://actickyw.github.io/data/sitemap.actickyw.gz
+Sitemap: https://actickyw.github.io/includes/sitemap.actickyw.gz
+Sitemap: https://actickyw.github.io/item/sitemap.actickyw.gz
+Sitemap: https://actickyw.github.io/src/sitemap.actickyw.gz
